@@ -5,41 +5,41 @@
     "price": "$19 /mo",
     "category": "Apps",
     "description": "AI productivity suite that adapts to your workflow."
+  },
+  {
+    "id": 2,
+    "name": "Hidizs AP80 Pro Max",
+    "price": "$189",
+    "category": "Gadgets",
+    "curator": "Alex Chen",
+    "curatorNote": "One device. Multiple listening styles. Hi-Res sound, anywhere, anytime.",
+    "description": "The Hidizs AP80 Pro Max is a powerful all-in-one high-resolution music player featuring dual ES9219C DAC chips, 2.5mm balanced output, and support for Tidal and Qobuz streaming. Designed for audiophiles who demand premium sound quality in a portable package.",
+    "specs": [
+      { "Supports": "WiFi streaming from Tidal & Qobuz, microSD playback up to 512GB" },
+      { "DAC Chips": "Dual ES9219C DAC chips, +120dB SNR, +122dB DNR" },
+      { "Touchscreen": "2.95'' HD (480×640) with tempered glass" },
+      { "Buttons": "Physical volume wheel + 3 navigation buttons" },
+      { "Battery": "Up to 15 hours playback" },
+      { "Body": "CNC aluminum alloy with tempered glass panels" }
+    ],
+    "whyChoseThis": "A perfect blend of design and performance — a premium pocket-sized player with audiophile-grade output and streaming support.",
+    "type": "Physical",
+    "image": "https://ksr-ugc.imgix.net/assets/043/681/022/73e35a29bfb4e01f88e2604f07c69b19_original.jpg?ixlib=rb-4.1.0&w=700&fit=max&v=1681908043&auto=format&frame=1&q=92&s=829d8c0f331792e7b2cfb0f90f3aab56",
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "comment": "The AP80 Pro Max is incredible. I’ve never heard this level of detail from such a small device!",
+        "time": "2 weeks ago",
+        "likes": 23
+      },
+      {
+        "name": "Mike M.",
+        "rating": 4,
+        "comment": "Great DAC performance and build quality, though battery life could be longer.",
+        "time": "3 weeks ago",
+        "likes": 15
+      }
+    ]
   }
-{
-  "id": 2,
-  "name": "Hidizs AP80 Pro Max",
-  "price": "$189",
-  "category": "Gadgets",
-  "curator": "Alex Chen",
-  "curatorNote": "One device. Multiple listening styles. Hi-Res sound, anywhere, anytime.",
-  "description": "The Hidizs AP80 Pro Max is a powerful all-in-one high-resolution music player featuring dual ES9219C DAC chips, 2.5mm balanced output, and support for Tidal and Qobuz streaming. Designed for audiophiles who demand premium sound quality in a portable package.",
-  "specs": [
-    { "Supports": "WiFi streaming from Tidal & Qobuz, microSD playback up to 512GB" },
-    { "DAC Chips": "Dual ES9219C DAC chips, +120dB SNR, +122dB DNR" },
-    { "Touchscreen": "2.95'' HD (480×640) with tempered glass" },
-    { "Buttons": "Physical volume wheel + 3 navigation buttons" },
-    { "Battery": "Up to 15 hours playback" },
-    { "Body": "CNC aluminum alloy with tempered glass panels" }
-  ],
-  "whyChoseThis": "A perfect blend of design and performance — a premium pocket-sized player with audiophile-grade output and streaming support.",
-  "type": "Physical",
-  "image": "https://ksr-ugc.imgix.net/assets/043/681/022/73e35a29bfb4e01f88e2604f07c69b19_original.jpg?ixlib=rb-4.1.0&w=700&fit=max&v=1681908043&auto=format&frame=1&q=92&s=829d8c0f331792e7b2cfb0f90f3aab56",
-  "reviews": [
-    {
-      "name": "Sarah M.",
-      "rating": 5,
-      "comment": "The AP80 Pro Max is incredible. I’ve never heard this level of detail from such a small device!",
-      "time": "2 weeks ago",
-      "likes": 23
-    },
-    {
-      "name": "Mike M.",
-      "rating": 4,
-      "comment": "Great DAC performance and build quality, though battery life could be longer.",
-      "time": "3 weeks ago",
-      "likes": 15
-    }
-  ]
-}
 ]
